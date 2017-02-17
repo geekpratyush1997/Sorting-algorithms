@@ -51,7 +51,7 @@ int u;
 	}
 	return 0;
 }
-//FUNCTIN TO PRINT THE SORTED ARRAY
+//FUNCTION TO PRINT THE SORTED ARRAY
 int print_arr(size)
 int size;
 {
